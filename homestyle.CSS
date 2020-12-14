@@ -1,0 +1,26 @@
+img {
+  width: auto;
+  height: 10%;   
+}
+
+p1{
+  font-size:100px;
+}
+
+li {
+  list-style-type: none;
+  margin: 2;
+}
+
+li {
+  display: block ;
+  display: inline;
+  padding: 69px;
+  background_color: blue;
+  padding: 20px 40px;
+  
+}
+
+li a:hover {
+  background-color: #7bb9e8;
+}
